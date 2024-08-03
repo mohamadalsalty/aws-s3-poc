@@ -32,21 +32,21 @@ The `aws_s3_bucket_object` resource uploads a file to the S3 bucket with the fol
 
 1. **Initialize Terraform:**
 
-   '''
+   ```
    terraform init
-   '''
+   ```
 
 2. **Preview the changes:**
 
-   '''
+   ```
    terraform plan
-   '''
+   ```
 
 3. **Apply the configuration:**
 
-   '''
+   ```
    terraform apply
-   '''
+   ```
 
    This command will create the S3 bucket and upload the file `example.txt` to it.
 
