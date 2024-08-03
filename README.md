@@ -1,5 +1,5 @@
 # AWS S3 Bucket with File Upload using Terraform
-
+![Logo](logo.png) <br>
 This Terraform configuration creates an S3 bucket in the AWS region `eu-central-1` and uploads a file named `example.txt` to the bucket.
 
 ## Requirements
